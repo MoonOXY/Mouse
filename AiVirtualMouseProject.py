@@ -9,6 +9,7 @@ wCam, hCam = 640, 480
 frameR = 100 # Frame Reduction
 smoothening = 7
 #########################
+#changes
  
 pTime = 0
 plocX, plocY = 0, 0
